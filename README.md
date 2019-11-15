@@ -9,7 +9,7 @@ Solves the 2D Laplace equation d^2(phi)/dx^2 + d^2(phi)/dy^2 = 0 with dirichlet 
 
 Input:
 - Fluent Mesh File (ascii)
-- User settings (see below)
+- User settings
 
 Output:
 - 2D mesh plot
